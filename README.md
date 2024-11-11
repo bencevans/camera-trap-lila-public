@@ -43,16 +43,16 @@ See details on [lila.science](https://lila.science/datasets/caltech-camera-traps
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/caltechcameratraps/labels/caltech_camera_traps.json.zip)|245,118|22|243,100|0|140|181,008|
-|**Filtered (Public)**|245,118|22|243,100|0|140|181,008|
-|**Filtered (Public + Referenced)**|245,118|22|243,100|0|140|181,008|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/caltech-camera-traps--image-level-annotations.public.json.zip)|245,118|22|243,100|0|140|181,008|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/caltech-camera-traps--image-level-annotations.public.referenced.json.zip)|245,118|22|243,100|0|140|181,008|
 
 #### Bounding box annotations
 
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/caltechcameratraps/labels/caltech_bboxes_20200316.json)|65,112|22|63,025|65,112|85|27,877|
-|**Filtered (Public)**|65,112|20|63,025|65,112|85|27,877|
-|**Filtered (Public + Referenced)**|65,112|20|61,945|65,112|85|27,877|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/caltech-camera-traps--bounding-box-annotations.public.json.zip)|65,112|20|63,025|65,112|85|27,877|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/caltech-camera-traps--bounding-box-annotations.public.referenced.json.zip)|65,112|20|61,945|65,112|85|27,877|
 
 <!--
 Unavailable categories:
@@ -69,8 +69,8 @@ See details on [lila.science](https://lila.science/datasets/channel-islands-came
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/channel-islands-camera-traps/channel-islands-camera-traps.json.zip)|264,321|7|245,529|264,266|73|50,626|
-|**Filtered (Public)**|258,295|6|240,458|258,240|73|50,309|
-|**Filtered (Public + Referenced)**|258,295|6|240,458|258,240|73|50,309|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/channel-islands-camera-traps--metadata.public.json.zip)|258,295|6|240,458|258,240|73|50,309|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/channel-islands-camera-traps--metadata.public.referenced.json.zip)|258,295|6|240,458|258,240|73|50,309|
 
 <!--
 Unavailable categories:
@@ -86,8 +86,8 @@ See details on [lila.science](https://lila.science/datasets/desert-lion-conserva
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/desert-lion-camera-traps/desert_lion_camera_traps.json.zip)|63,468|46|63,468|0|1|0|
-|**Filtered (Public)**|63,468|46|63,468|0|1|0|
-|**Filtered (Public + Referenced)**|63,468|46|63,468|0|1|0|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/desert-lion-conservation-camera-traps--metadata.public.json.zip)|63,468|46|63,468|0|1|0|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/desert-lion-conservation-camera-traps--metadata.public.referenced.json.zip)|63,468|46|63,468|0|1|0|
 
 ### ENA24-detection
 
@@ -98,8 +98,8 @@ See details on [lila.science](https://lila.science/datasets/ena24detection)
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/ena24/ena24.json)|11,596|23|9,676|11,596|0|0|
-|**Filtered (Public)**|9,772|22|8,789|9,772|0|0|
-|**Filtered (Public + Referenced)**|9,772|22|8,789|9,772|0|0|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/ena24detection--bounding-boxes.public.json.zip)|9,772|22|8,789|9,772|0|0|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/ena24detection--bounding-boxes.public.referenced.json.zip)|9,772|22|8,789|9,772|0|0|
 
 <!--
 Unavailable categories:
@@ -115,8 +115,8 @@ See details on [lila.science](https://lila.science/datasets/idaho-camera-traps/)
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/idaho-camera-traps/idaho-camera-traps.json.zip)|1,551,552|62|1,535,725|0|276|1,034,520|
-|**Filtered (Public)**|1,527,750|58|1,513,414|0|276|1,032,276|
-|**Filtered (Public + Referenced)**|1,527,750|58|1,513,414|0|276|1,032,276|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/idaho-camera-traps--metadata.public.json.zip)|1,527,750|58|1,513,414|0|276|1,032,276|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/idaho-camera-traps--metadata.public.referenced.json.zip)|1,527,750|58|1,513,414|0|276|1,032,276|
 
 <!--
 Unavailable categories:
@@ -135,8 +135,8 @@ See details on [lila.science](https://lila.science/datasets/island-conservation-
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/islandconservationcameratraps/island_conservation_camera_traps_1.02.zip)|142,341|49|127,410|64,671|123|0|
-|**Filtered (Public)**|136,080|48|122,602|58,410|123|0|
-|**Filtered (Public + Referenced)**|136,080|48|122,602|58,410|123|0|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/island-conservation-camera-traps--metadata.public.json.zip)|136,080|48|122,602|58,410|123|0|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/island-conservation-camera-traps--metadata.public.referenced.json.zip)|136,080|48|122,602|58,410|123|0|
 
 <!--
 Unavailable categories:
@@ -152,8 +152,8 @@ See details on [lila.science](https://lila.science/datasets/missouricameratraps)
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/missouricameratraps/missouri_camera_traps_set1_1.21.json.zip)|24,682|21|24,673|956|1|1,934|
-|**Filtered (Public)**|24,682|21|24,673|956|1|1,934|
-|**Filtered (Public + Referenced)**|24,682|21|24,673|956|1|1,934|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/missouricameratraps--metadata.public.json.zip)|24,682|21|24,673|956|1|1,934|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/missouricameratraps--metadata.public.referenced.json.zip)|24,682|21|24,673|956|1|1,934|
 
 ### North American Camera Trap Images
 
@@ -164,8 +164,8 @@ See details on [lila.science](https://lila.science/datasets/nacti)
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/nacti/nacti_metadata.1.14.json.zip)|3,382,215|59|3,382,215|0|678|0|
-|**Filtered (Public)**|3,382,215|50|3,382,215|0|678|0|
-|**Filtered (Public + Referenced)**|3,382,215|50|3,382,215|0|678|0|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/nacti--metadata.public.json.zip)|3,382,215|50|3,382,215|0|678|0|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/nacti--metadata.public.referenced.json.zip)|3,382,215|50|3,382,215|0|678|0|
 
 <!--
 Unavailable categories:
@@ -181,8 +181,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/nacti/nacti_20230920_bboxes.zip)|10,564|5|8,892|10,564|3|0|
-|**Filtered (Public)**|10,564|4|8,892|10,564|3|0|
-|**Filtered (Public + Referenced)**|10,564|4|8,263|10,564|3|0|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/nacti--bounding-boxes.public.json.zip)|10,564|4|8,892|10,564|3|0|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/nacti--bounding-boxes.public.referenced.json.zip)|10,564|4|8,263|10,564|3|0|
 
 <!--
 Unavailable categories:
@@ -198,8 +198,8 @@ See details on [lila.science](https://lila.science/datasets/ohio-small-animals/)
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/osu-small-animals/osu-small-animals.json.zip)|118,554|46|118,554|0|168|23,385|
-|**Filtered (Public)**|118,554|46|118,554|0|168|23,385|
-|**Filtered (Public + Referenced)**|118,554|46|118,554|0|168|23,385|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/ohio-small-animals--metadata.public.json.zip)|118,554|46|118,554|0|168|23,385|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/ohio-small-animals--metadata.public.referenced.json.zip)|118,554|46|118,554|0|168|23,385|
 
 ### Orinoquía Camera Traps
 
@@ -210,28 +210,12 @@ See details on [lila.science](https://lila.science/datasets/orinoquia-camera-tra
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/orinoquia-camera-traps/orinoquia_camera_traps_metadata.zip)|112,267|58|112,221|0|49|18,402|
-|**Filtered (Public)**|0|0|0|0|0|0|
-|**Filtered (Public + Referenced)**|0|0|0|0|0|0|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/orinoquia-camera-traps--metadata.public.json.zip)|104,822|57|104,780|0|49|18,144|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/orinoquia-camera-traps--metadata.public.referenced.json.zip)|104,822|57|104,780|0|49|18,144|
 
 <!--
 Unavailable categories:
-|  |  |  |  |  |
-|--|--|--|--|--|
-| empty `0` | human `1` | black_agouti `2` | collared_peccary `3` | spixs_guan `4` |
-| spixs_guan `4` | rodent `5` | unknown_bird `6` | unknown `7` | giant_anteater `8` |
-| giant_anteater `8` | ornate_titi_monkey `9` | lowland_tapir `10` | unknown_armadillo `11` | unknown_squirrel_monkey `12` |
-| unknown_squirrel_monkey `12` | puma `13` | southern_tamandua `14` | cattle `15` | south_american_coati `16` |
-| south_american_coati `16` | ants `17` | amazonian_motmot `18` | unknown_possum `19` | tayra `20` |
-| tayra `20` | spotted_paca `21` | margarita_island_capuchin `22` | giant_armadillo `23` | unknown_capuchin_monkey `24` |
-| unknown_capuchin_monkey `24` | unknown_reptile `25` | crab-eating_fox `26` | common_green_iguana `27` | domestic_horse `28` |
-| domestic_horse `28` | domestic_dog `29` | unknown_cervid `30` | ocelot `31` | white-tailed_deer `32` |
-| white-tailed_deer `32` | salvins_curassow `33` | northern_amazon_red_squirrel `34` | jaguarundi `35` | white-lipped_peccary `36` |
-| white-lipped_peccary `36` | unknown_howler_monkey `37` | unknown_turtle `38` | unknown_nightjar `39` | unknown_peccary `40` |
-| unknown_peccary `40` | red_brocket_deer `41` | margay `42` | insect `43` | unknown_tayra `44` |
-| unknown_tayra `44` | orinoco_agouti `45` | jaguar `46` | bush_dog `47` | unknown_mammal `48` |
-| unknown_mammal `48` | crestless_curassow `49` | turkey_vulture `50` | white-browed_guan `51` | neotropical_otter `52` |
-| neotropical_otter `52` | fasciated_tiger-heron `53` | coiban_agouti `54` | unknown_weasel `55` | giant_otter `56` |
-| giant_otter `56` | capybara `57` |    |    |    |
+- `1` human
 -->
 
 ### SWG Camera Traps 2018-2020
@@ -243,8 +227,8 @@ See details on [lila.science](https://lila.science/datasets/swg-camera-traps)
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/swg-camera-traps/swg_camera_traps.zip)|2,039,657|120|2,039,657|0|982|436,617|
-|**Filtered (Public)**|1,858,247|118|1,858,247|0|935|410,454|
-|**Filtered (Public + Referenced)**|1,858,247|118|1,858,247|0|935|410,454|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/swg-camera-traps--class-level-annotations.public.json.zip)|1,858,247|118|1,858,247|0|935|410,454|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/swg-camera-traps--class-level-annotations.public.referenced.json.zip)|1,858,247|118|1,858,247|0|935|410,454|
 
 <!--
 Unavailable categories:
@@ -257,8 +241,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/swg-camera-traps/swg_camera_traps.bounding_boxes.with_species.zip)|133,837|121|120,321|101,659|915|50,389|
-|**Filtered (Public)**|132,596|99|119,282|100,638|913|49,999|
-|**Filtered (Public + Referenced)**|132,596|99|119,274|100,638|913|49,999|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/swg-camera-traps--bounding-boxes--with-species-.public.json.zip)|132,596|99|119,282|100,638|913|49,999|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/swg-camera-traps--bounding-boxes--with-species-.public.referenced.json.zip)|132,596|99|119,274|100,638|913|49,999|
 
 <!--
 Unavailable categories:
@@ -277,8 +261,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/swg-camera-traps/swg_camera_traps.bounding_boxes.no_species.zip)|133,837|4|120,321|101,659|915|50,389|
-|**Filtered (Public)**|132,596|3|119,282|100,638|913|49,999|
-|**Filtered (Public + Referenced)**|132,596|3|119,274|100,638|913|49,999|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/swg-camera-traps--bounding-boxes--just-animal-person-vehicle-labels-.public.json.zip)|132,596|3|119,282|100,638|913|49,999|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/swg-camera-traps--bounding-boxes--just-animal-person-vehicle-labels-.public.referenced.json.zip)|132,596|3|119,274|100,638|913|49,999|
 
 <!--
 Unavailable categories:
@@ -294,8 +278,8 @@ See details on [lila.science](https://lila.science/datasets/snapshot-camdeboo)
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshot-safari/CDB/SnapshotCamdeboo_S1_v1.0.json.zip)|30,717|43|30,551|0|20|12,132|
-|**Filtered (Public)**|30,393|42|30,227|0|20|12,024|
-|**Filtered (Public + Referenced)**|30,393|42|30,227|0|20|12,024|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-camdeboo--season-1.public.json.zip)|30,393|42|30,227|0|20|12,024|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-camdeboo--season-1.public.referenced.json.zip)|30,393|42|30,227|0|20|12,024|
 
 <!--
 Unavailable categories:
@@ -311,8 +295,8 @@ See details on [lila.science](https://lila.science/datasets/snapshot-enonkishu)
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshot-safari/ENO/SnapshotEnonkishu_S1_v1.0.json.zip)|30,542|39|29,414|0|16|13,301|
-|**Filtered (Public)**|29,558|38|28,544|0|16|12,969|
-|**Filtered (Public + Referenced)**|29,558|38|28,544|0|16|12,969|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-enonkishu--season-1.public.json.zip)|29,558|38|28,544|0|16|12,969|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-enonkishu--season-1.public.referenced.json.zip)|29,558|38|28,544|0|16|12,969|
 
 <!--
 Unavailable categories:
@@ -328,8 +312,8 @@ See details on [lila.science](https://lila.science/datasets/snapshot-karoo)
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshot-safari/KAR/SnapshotKaroo_S1_v1.0.json.zip)|38,320|38|38,293|0|15|14,889|
-|**Filtered (Public)**|38,101|37|38,074|0|15|14,806|
-|**Filtered (Public + Referenced)**|38,101|37|38,074|0|15|14,806|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-karoo--season-1.public.json.zip)|38,101|37|38,074|0|15|14,806|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-karoo--season-1.public.referenced.json.zip)|38,101|37|38,074|0|15|14,806|
 
 <!--
 Unavailable categories:
@@ -345,8 +329,8 @@ See details on [lila.science](https://lila.science/datasets/snapshot-kgalagadi)
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshot-safari/KGA/SnapshotKgalagadi_S1_v1.0.json.zip)|10,402|31|10,357|0|20|3,611|
-|**Filtered (Public)**|10,267|30|10,222|0|20|3,566|
-|**Filtered (Public + Referenced)**|10,267|30|10,222|0|20|3,566|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-kgalagadi--season-1.public.json.zip)|10,267|30|10,222|0|20|3,566|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-kgalagadi--season-1.public.referenced.json.zip)|10,267|30|10,222|0|20|3,566|
 
 <!--
 Unavailable categories:
@@ -362,8 +346,8 @@ See details on [lila.science](https://lila.science/datasets/snapshot-kruger)
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshot-safari/KRU/SnapshotKruger_S1_v1.0.json.zip)|10,637|46|10,604|0|39|4,747|
-|**Filtered (Public)**|10,105|45|10,072|0|39|4,568|
-|**Filtered (Public + Referenced)**|10,105|45|10,072|0|39|4,568|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-kruger--season-1.public.json.zip)|10,105|45|10,072|0|39|4,568|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-kruger--season-1.public.referenced.json.zip)|10,105|45|10,072|0|39|4,568|
 
 <!--
 Unavailable categories:
@@ -379,8 +363,8 @@ See details on [lila.science](https://lila.science/datasets/snapshot-mountain-ze
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshot-safari/MTZ/SnapshotMountainZebra_S1_v1.0.json.zip)|73,606|54|73,570|0|19|71,688|
-|**Filtered (Public)**|73,070|53|73,034|0|19|71,178|
-|**Filtered (Public + Referenced)**|73,070|53|73,034|0|19|71,178|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-mountain-zebra--season-1.public.json.zip)|73,070|53|73,034|0|19|71,178|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-mountain-zebra--season-1.public.referenced.json.zip)|73,070|53|73,034|0|19|71,178|
 
 <!--
 Unavailable categories:
@@ -396,8 +380,8 @@ See details on [lila.science](https://lila.science/datasets/snapshot-serengeti)
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS01.json.zip)|412,858|61|411,414|0|168|148,226|
-|**Filtered (Public)**|407,942|48|406,612|0|168|146,269|
-|**Filtered (Public + Referenced)**|407,942|48|406,612|0|168|146,269|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-1.public.json.zip)|407,942|48|406,612|0|168|146,269|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-1.public.referenced.json.zip)|407,942|48|406,612|0|168|146,269|
 
 <!--
 Unavailable categories:
@@ -414,8 +398,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS02.json.zip)|583,228|61|573,200|0|174|204,352|
-|**Filtered (Public)**|577,365|47|567,428|0|174|202,263|
-|**Filtered (Public + Referenced)**|577,365|47|567,428|0|174|202,263|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-2.public.json.zip)|577,365|47|567,428|0|174|202,263|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-2.public.referenced.json.zip)|577,365|47|567,428|0|174|202,263|
 
 <!--
 Unavailable categories:
@@ -432,8 +416,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS03.json.zip)|398,689|61|392,507|0|160|147,299|
-|**Filtered (Public)**|394,463|46|388,335|0|160|145,873|
-|**Filtered (Public + Referenced)**|394,463|46|388,335|0|160|145,873|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-3.public.json.zip)|394,463|46|388,335|0|160|145,873|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-3.public.referenced.json.zip)|394,463|46|388,335|0|160|145,873|
 
 <!--
 Unavailable categories:
@@ -450,8 +434,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS04.json.zip)|541,872|61|531,554|0|181|200,595|
-|**Filtered (Public)**|538,771|46|528,504|0|181|199,474|
-|**Filtered (Public + Referenced)**|538,771|46|528,504|0|181|199,474|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-4.public.json.zip)|538,771|46|528,504|0|181|199,474|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-4.public.referenced.json.zip)|538,771|46|528,504|0|181|199,474|
 
 <!--
 Unavailable categories:
@@ -468,8 +452,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS05.json.zip)|839,421|61|827,224|0|178|311,096|
-|**Filtered (Public)**|834,951|47|822,793|0|177|309,439|
-|**Filtered (Public + Referenced)**|834,951|47|822,793|0|177|309,439|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-5.public.json.zip)|834,951|47|822,793|0|177|309,439|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-5.public.referenced.json.zip)|834,951|47|822,793|0|177|309,439|
 
 <!--
 Unavailable categories:
@@ -486,8 +470,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS06.json.zip)|466,411|61|462,846|0|191|173,093|
-|**Filtered (Public)**|461,961|47|458,417|0|189|171,469|
-|**Filtered (Public + Referenced)**|461,961|47|458,417|0|189|171,469|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-6.public.json.zip)|461,961|47|458,417|0|189|171,469|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-6.public.referenced.json.zip)|461,961|47|458,417|0|189|171,469|
 
 <!--
 Unavailable categories:
@@ -504,8 +488,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS07.json.zip)|837,043|61|832,153|0|169|304,492|
-|**Filtered (Public)**|831,869|48|827,051|0|169|302,563|
-|**Filtered (Public + Referenced)**|831,869|48|827,051|0|169|302,563|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-7.public.json.zip)|831,869|48|827,051|0|169|302,563|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-7.public.referenced.json.zip)|831,869|48|827,051|0|169|302,563|
 
 <!--
 Unavailable categories:
@@ -522,8 +506,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS08.json.zip)|989,821|61|980,256|0|203|359,557|
-|**Filtered (Public)**|984,897|54|975,394|0|203|357,852|
-|**Filtered (Public + Referenced)**|984,897|54|975,394|0|203|357,852|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-8.public.json.zip)|984,897|54|975,394|0|203|357,852|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-8.public.referenced.json.zip)|984,897|54|975,394|0|203|357,852|
 
 <!--
 Unavailable categories:
@@ -538,8 +522,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS09.json.zip)|991,858|61|982,404|0|185|369,307|
-|**Filtered (Public)**|986,293|53|977,105|0|185|367,480|
-|**Filtered (Public + Referenced)**|986,293|53|977,105|0|185|367,480|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-9.public.json.zip)|986,293|53|977,105|0|185|367,480|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-9.public.referenced.json.zip)|986,293|53|977,105|0|185|367,480|
 
 <!--
 Unavailable categories:
@@ -555,8 +539,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS10.json.zip)|693,889|61|685,481|0|167|252,974|
-|**Filtered (Public)**|691,099|52|682,736|0|166|252,015|
-|**Filtered (Public + Referenced)**|691,099|52|682,736|0|166|252,015|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-10.public.json.zip)|691,099|52|682,736|0|166|252,015|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-10.public.referenced.json.zip)|691,099|52|682,736|0|166|252,015|
 
 <!--
 Unavailable categories:
@@ -572,8 +556,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS11.json.zip)|506,455|61|499,401|0|125|188,231|
-|**Filtered (Public)**|503,933|60|497,050|0|125|187,419|
-|**Filtered (Public + Referenced)**|503,933|60|497,050|0|125|187,419|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-11.public.json.zip)|503,933|60|497,050|0|125|187,419|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--season-11.public.referenced.json.zip)|503,933|60|497,050|0|125|187,419|
 
 <!--
 Unavailable categories:
@@ -585,8 +569,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengeti_S1-11_v2_1.json.zip)|7,261,545|61|7,178,440|0|225|2,659,222|
-|**Filtered (Public)**|7,213,544|60|7,131,425|0|225|2,642,116|
-|**Filtered (Public + Referenced)**|7,213,544|60|7,131,425|0|225|2,642,116|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--all-metadata.public.json.zip)|7,213,544|60|7,131,425|0|225|2,642,116|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--all-metadata.public.referenced.json.zip)|7,213,544|60|7,131,425|0|225|2,642,116|
 
 <!--
 Unavailable categories:
@@ -598,8 +582,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiBboxes_20190903.json.zip)|146,359|4|82,938|146,359|225|34,166|
-|**Filtered (Public)**|145,599|3|81,154|145,599|224|33,498|
-|**Filtered (Public + Referenced)**|145,599|3|77,500|145,599|224|33,498|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--bounding-boxes.public.json.zip)|145,599|3|81,154|145,599|224|33,498|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/snapshot-serengeti--bounding-boxes.public.referenced.json.zip)|145,599|3|77,500|145,599|224|33,498|
 
 <!--
 Unavailable categories:
@@ -615,8 +599,8 @@ See details on [lila.science](https://lila.science/datasets/nz-trailcams)
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/nz-trailcams/trail_camera_images_of_new_zealand_animals_1.00.json.zip)|2,453,840|98|2,453,840|0|3,127|0|
-|**Filtered (Public)**|2,453,840|97|2,453,840|0|3,127|0|
-|**Filtered (Public + Referenced)**|2,453,840|97|2,453,840|0|3,127|0|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/nz-trailcams--metadata.public.json.zip)|2,453,840|97|2,453,840|0|3,127|0|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/nz-trailcams--metadata.public.referenced.json.zip)|2,453,840|97|2,453,840|0|3,127|0|
 
 <!--
 Unavailable categories:
@@ -632,8 +616,8 @@ See details on [lila.science](https://lila.science/datasets/wcscameratraps)
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/wcs/wcs_camera_traps.json.zip)|1,369,991|676|1,369,991|0|3,911|179,579|
-|**Filtered (Public)**|1,200,700|673|1,200,700|0|3,769|165,354|
-|**Filtered (Public + Referenced)**|1,200,700|673|1,200,700|0|3,769|165,354|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/wcscameratraps--class-level-annotations.public.json.zip)|1,200,700|673|1,200,700|0|3,769|165,354|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/wcscameratraps--class-level-annotations.public.referenced.json.zip)|1,200,700|673|1,200,700|0|3,769|165,354|
 
 <!--
 Unavailable categories:
@@ -647,8 +631,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/wcs/wcs_20220205_bboxes_with_classes.zip)|429,482|678|298,725|374,270|3,792|63,858|
-|**Filtered (Public)**|409,148|608|286,650|357,094|3,758|61,232|
-|**Filtered (Public + Referenced)**|409,148|608|286,650|357,094|3,758|61,232|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/wcscameratraps--bounding-boxes--same-classes-as-the-class-level-labels-.public.json.zip)|409,148|608|286,650|357,094|3,758|61,232|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/wcscameratraps--bounding-boxes--same-classes-as-the-class-level-labels-.public.referenced.json.zip)|409,148|608|286,650|357,094|3,758|61,232|
 
 <!--
 Unavailable categories:
@@ -679,8 +663,8 @@ Unavailable categories:
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/wcs/wcs_20220205_bboxes_no_classes.zip)|429,482|5|298,725|374,270|3,792|63,858|
-|**Filtered (Public)**|409,148|3|286,650|357,094|3,758|61,232|
-|**Filtered (Public + Referenced)**|409,148|3|286,650|357,094|3,758|61,232|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/wcscameratraps--bounding-boxes--just-animal-person-vehicle-labels-.public.json.zip)|409,148|3|286,650|357,094|3,758|61,232|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/wcscameratraps--bounding-boxes--just-animal-person-vehicle-labels-.public.referenced.json.zip)|409,148|3|286,650|357,094|3,758|61,232|
 
 <!--
 Unavailable categories:
@@ -697,6 +681,6 @@ See details on [lila.science](https://lila.science/datasets/wellingtoncameratrap
 ||Annotations|Categories|Images|BBoxes|Location IDs|Sequence IDs|
 |-|-|-|-|-|-|-|
 |[**Original**](https://lilawildlife.blob.core.windows.net/lila-wildlife/wellingtoncameratraps/wellington_camera_traps.json.zip)|270,450|17|270,450|0|215|90,478|
-|**Filtered (Public)**|270,450|17|270,450|0|215|90,478|
-|**Filtered (Public + Referenced)**|270,450|17|270,450|0|215|90,478|
+|[**Filtered (Public)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/wellingtoncameratraps--metadata.public.json.zip)|270,450|17|270,450|0|215|90,478|
+|[**Filtered (Public + Referenced)**](https://github.com/bencevans/camera-trap-lila-public/releases/download/v1/wellingtoncameratraps--metadata.public.referenced.json.zip)|270,450|17|270,450|0|215|90,478|
 
