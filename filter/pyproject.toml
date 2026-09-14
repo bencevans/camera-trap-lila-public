@@ -1,0 +1,17 @@
+[project]
+name = "filter"
+version = "0.1.0"
+description = "Regenerate public-only LILA Camera Trap metadata and documentation"
+readme = "README.md"
+authors = [
+    { name = "Ben Evans", email = "Benjamin.Evans@ioz.ac.uk" }
+]
+requires-python = ">=3.12"
+dependencies = ["pillow==10.2.0"]
+
+[project.scripts]
+filter = "filter:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"

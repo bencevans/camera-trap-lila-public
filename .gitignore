@@ -1,0 +1,5 @@
+dist/
+filter/.venv/
+filter/src/filter/__pycache__/
+filter/tests/__pycache__/
+data/

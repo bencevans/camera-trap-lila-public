@@ -1,0 +1,579 @@
+{
+  "manifest_source": "https://lila.science/wp-content/uploads/2023/06/lila_camera_trap_datasets.csv",
+  "release": "v3",
+  "datasets": [
+    {
+      "name": "AMMonitor Camera Traps",
+      "url": "https://lila.science/datasets/ammonitor-camera-traps/",
+      "image_base": "ammonitor-camera-traps",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/ammonitor-camera-traps/ammonitor-camera-traps.zip",
+          "slug": "ammonitor-camera-traps--metadata"
+        }
+      ],
+      "id": "ammonitor-camera-traps"
+    },
+    {
+      "name": "Biome Health Project Maasai Mara 2018",
+      "url": "https://lila.science/datasets/biome-health-project-maasai-mara",
+      "image_base": "biome-health-project-maasai-mara-2018",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/biome-health-project-maasai-mara-2018/biome-health-project-maasai-mara-2018.json",
+          "slug": "biome-health-project-maasai-mara--metadata"
+        }
+      ],
+      "id": "biome-health-project-maasai-mara"
+    },
+    {
+      "name": "California Small Animals",
+      "url": "https://lila.science/datasets/california-small-animals/",
+      "image_base": "california-small-animals",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/california-small-animals/california_small_animals_with_sequences.zip",
+          "slug": "california-small-animals--metadata"
+        }
+      ],
+      "id": "california-small-animals"
+    },
+    {
+      "name": "Caltech Camera Traps",
+      "url": "https://lila.science/datasets/caltech-camera-traps",
+      "image_base": "caltech-unzipped/cct_images",
+      "labelsets": [
+        {
+          "name": "Image-level annotations",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/caltechcameratraps/labels/caltech_camera_traps.json.zip",
+          "slug": "caltech-camera-traps--image-level-annotations"
+        },
+        {
+          "name": "Bounding box annotations",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/caltechcameratraps/labels/caltech_bboxes_20200316.json",
+          "slug": "caltech-camera-traps--bounding-box-annotations"
+        }
+      ],
+      "id": "caltech-camera-traps"
+    },
+    {
+      "name": "Channel Islands Camera Traps",
+      "url": "https://lila.science/datasets/channel-islands-camera-traps/",
+      "image_base": "channel-islands-camera-traps/images",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/channel-islands-camera-traps/channel-islands-camera-traps.json.zip",
+          "slug": "channel-islands-camera-traps--metadata"
+        }
+      ],
+      "id": "channel-islands-camera-traps"
+    },
+    {
+      "name": "Desert Lion Conservation Camera Traps",
+      "url": "https://lila.science/datasets/desert-lion-conservation-camera-traps/",
+      "image_base": "desert-lion-camera-traps/annotated-imgs",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/desert-lion-camera-traps/desert_lion_camera_traps.json.zip",
+          "slug": "desert-lion-conservation-camera-traps--metadata"
+        }
+      ],
+      "id": "desert-lion-conservation-camera-traps"
+    },
+    {
+      "name": "Duck Pictures in Wetlands",
+      "url": "https://lila.science/datasets/duck-pictures-in-wetlands/",
+      "image_base": "duck-pictures-in-wetlands",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/duck-pictures-in-wetlands/duck_pictures_in_wetlands.json.zip",
+          "slug": "duck-pictures-in-wetlands--metadata"
+        }
+      ],
+      "id": "duck-pictures-in-wetlands"
+    },
+    {
+      "name": "ENA24-detection",
+      "url": "https://lila.science/datasets/ena24detection",
+      "image_base": "ena24/images",
+      "labelsets": [
+        {
+          "name": "Bounding Boxes",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/ena24/ena24.json",
+          "slug": "ena24detection--bounding-boxes"
+        }
+      ],
+      "id": "ena24detection"
+    },
+    {
+      "name": "Felidae Conservation Fund 2020-2025",
+      "url": "https://lila.science/datasets/felidae-conservation-fund",
+      "image_base": "felidae-conservation-fund",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/felidae-conservation-fund/felidae_conservation_fund_2020_2025.zip",
+          "slug": "felidae-conservation-fund--metadata"
+        }
+      ],
+      "id": "felidae-conservation-fund"
+    },
+    {
+      "name": "Idaho Camera Traps",
+      "url": "https://lila.science/datasets/idaho-camera-traps/",
+      "image_base": "idaho-camera-traps/public",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/idaho-camera-traps/idaho-camera-traps.json.zip",
+          "slug": "idaho-camera-traps--metadata"
+        }
+      ],
+      "id": "idaho-camera-traps"
+    },
+    {
+      "name": "Island Conservation Camera Traps",
+      "url": "https://lila.science/datasets/island-conservation-camera-traps/",
+      "image_base": "islandconservationcameratraps/public",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/islandconservationcameratraps/island_conservation_camera_traps_1.02.zip",
+          "slug": "island-conservation-camera-traps--metadata"
+        }
+      ],
+      "id": "island-conservation-camera-traps"
+    },
+    {
+      "name": "iWildCam 2022",
+      "url": "https://lila.science/datasets/iwildcam-2022/",
+      "archive": "https://lilawildlife.blob.core.windows.net/lila-wildlife/iwildcam-2022/iwildcam-2022.zip",
+      "archive_prefix": "iwildcam-2022/",
+      "local_directory": "iwildcam-2022",
+      "image_base": "train",
+      "labelsets": [
+        {
+          "name": "Training annotations",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/iwildcam-2022/iwildcam-2022.zip",
+          "source_member": "metadata/iwildcam2022_train_annotations.json",
+          "image_base": "train",
+          "slug": "iwildcam-2022--train",
+          "note": "Metadata member: `metadata/iwildcam2022_train_annotations.json` in the original ZIP."
+        },
+        {
+          "name": "Test image metadata (unlabeled)",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/iwildcam-2022/iwildcam-2022.zip",
+          "source_member": "metadata/iwildcam2022_test_information.json",
+          "image_base": "test",
+          "slug": "iwildcam-2022--test",
+          "note": "Metadata member: `metadata/iwildcam2022_test_information.json` in the original ZIP. This split has no released annotations or categories. The public export preserves its images-only schema; the referenced export has no images.",
+          "unlabeled": true
+        }
+      ],
+      "id": "iwildcam-2022"
+    },
+    {
+      "name": "Lindenthal Camera Traps",
+      "url": "https://lila.science/datasets/lindenthal-camera-traps/",
+      "archive": "https://lilawildlife.blob.core.windows.net/lila-wildlife/lindenthal-camera-traps/lindenthal-camera-traps.zip",
+      "archive_prefix": "lindenthal-camera-traps/",
+      "local_directory": "lindenthal-camera-traps",
+      "image_base": "lindenthal_coco/images",
+      "labelsets": [
+        {
+          "name": "Training annotations",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/lindenthal-camera-traps/lindenthal-camera-traps.zip",
+          "source_member": "lindenthal_coco/train.json",
+          "image_base": "lindenthal_coco/images",
+          "slug": "lindenthal-camera-traps--train",
+          "note": "Metadata member: `lindenthal_coco/train.json` in the original ZIP."
+        },
+        {
+          "name": "Test annotations",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/lindenthal-camera-traps/lindenthal-camera-traps.zip",
+          "source_member": "lindenthal_coco/test.json",
+          "image_base": "lindenthal_coco/images",
+          "slug": "lindenthal-camera-traps--test",
+          "note": "Metadata member: `lindenthal_coco/test.json` in the original ZIP."
+        }
+      ],
+      "id": "lindenthal-camera-traps"
+    },
+    {
+      "name": "Missouri Camera Traps",
+      "url": "https://lila.science/datasets/missouricameratraps",
+      "image_base": "missouricameratraps/images",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/missouricameratraps/missouri_camera_traps_set1_1.21.json.zip",
+          "slug": "missouricameratraps--metadata"
+        }
+      ],
+      "id": "missouricameratraps"
+    },
+    {
+      "name": "Nkhotakota Camera Traps",
+      "url": "https://lila.science/datasets/nkhotakota-camera-traps/",
+      "image_base": "nkhotakota-camera-traps",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/nkhotakota-camera-traps/nkhotakota_camera_traps.json.zip",
+          "slug": "nkhotakota-camera-traps--metadata"
+        }
+      ],
+      "id": "nkhotakota-camera-traps"
+    },
+    {
+      "name": "North American Camera Trap Images",
+      "url": "https://lila.science/datasets/nacti",
+      "image_base": "nacti-unzipped",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/nacti/nacti_metadata.1.14.json.zip",
+          "slug": "nacti--metadata"
+        },
+        {
+          "name": "Bounding Boxes",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/nacti/nacti_20230920_bboxes.zip",
+          "slug": "nacti--bounding-boxes"
+        }
+      ],
+      "id": "nacti"
+    },
+    {
+      "name": "Ohio Small Animals",
+      "url": "https://lila.science/datasets/ohio-small-animals/",
+      "image_base": "osu-small-animals",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/osu-small-animals/osu-small-animals.json.zip",
+          "slug": "ohio-small-animals--metadata"
+        }
+      ],
+      "id": "ohio-small-animals"
+    },
+    {
+      "name": "Oregon Critters",
+      "url": "https://lila.science/datasets/oregon-critters/",
+      "image_base": "oregon-critters",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/oregon-critters/oregon_critters.zip",
+          "slug": "oregon-critters--metadata"
+        }
+      ],
+      "id": "oregon-critters"
+    },
+    {
+      "name": "Orinoquía Camera Traps",
+      "url": "https://lila.science/datasets/orinoquia-camera-traps/",
+      "image_base": "orinoquia-camera-traps/public",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/orinoquia-camera-traps/orinoquia_camera_traps_metadata.zip",
+          "slug": "orinoquia-camera-traps--metadata"
+        }
+      ],
+      "id": "orinoquia-camera-traps"
+    },
+    {
+      "name": "Seattle(ish) Camera Traps",
+      "url": "https://lila.science/datasets/seattleish-camera-traps/",
+      "image_base": "seattleish-camera-traps",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/seattleish-camera-traps/seattleish_camera_traps.json.zip",
+          "slug": "seattleish-camera-traps--metadata"
+        }
+      ],
+      "id": "seattleish-camera-traps"
+    },
+    {
+      "name": "Snapshot Camdeboo",
+      "url": "https://lila.science/datasets/snapshot-camdeboo",
+      "image_base": "snapshot-safari/CDB/CDB_public",
+      "labelsets": [
+        {
+          "name": "Season 1",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshot-safari/CDB/SnapshotCamdeboo_S1_v1.0.json.zip",
+          "slug": "snapshot-camdeboo--season-1"
+        }
+      ],
+      "id": "snapshot-camdeboo"
+    },
+    {
+      "name": "Snapshot Enonkishu",
+      "url": "https://lila.science/datasets/snapshot-enonkishu",
+      "image_base": "snapshot-safari/ENO/ENO_public",
+      "labelsets": [
+        {
+          "name": "Season 1",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshot-safari/ENO/SnapshotEnonkishu_S1_v1.0.json.zip",
+          "slug": "snapshot-enonkishu--season-1"
+        }
+      ],
+      "id": "snapshot-enonkishu"
+    },
+    {
+      "name": "Snapshot Karoo",
+      "url": "https://lila.science/datasets/snapshot-karoo",
+      "image_base": "snapshot-safari/KAR/KAR_public",
+      "labelsets": [
+        {
+          "name": "Season 1",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshot-safari/KAR/SnapshotKaroo_S1_v1.0.json.zip",
+          "slug": "snapshot-karoo--season-1"
+        }
+      ],
+      "id": "snapshot-karoo"
+    },
+    {
+      "name": "Snapshot Kgalagadi",
+      "url": "https://lila.science/datasets/snapshot-kgalagadi",
+      "image_base": "snapshot-safari/KGA/KGA_public",
+      "labelsets": [
+        {
+          "name": "Season 1",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshot-safari/KGA/SnapshotKgalagadi_S1_v1.0.json.zip",
+          "slug": "snapshot-kgalagadi--season-1"
+        }
+      ],
+      "id": "snapshot-kgalagadi"
+    },
+    {
+      "name": "Snapshot Kruger",
+      "url": "https://lila.science/datasets/snapshot-kruger",
+      "image_base": "snapshot-safari/KRU/KRU_public",
+      "labelsets": [
+        {
+          "name": "Season 1",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshot-safari/KRU/SnapshotKruger_S1_v1.0.json.zip",
+          "slug": "snapshot-kruger--season-1"
+        }
+      ],
+      "id": "snapshot-kruger"
+    },
+    {
+      "name": "Snapshot Mountain Zebra",
+      "url": "https://lila.science/datasets/snapshot-mountain-zebra",
+      "image_base": "snapshot-safari/MTZ/MTZ_public",
+      "labelsets": [
+        {
+          "name": "Season 1",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshot-safari/MTZ/SnapshotMountainZebra_S1_v1.0.json.zip",
+          "slug": "snapshot-mountain-zebra--season-1"
+        }
+      ],
+      "id": "snapshot-mountain-zebra"
+    },
+    {
+      "name": "Snapshot Safari 2024 Expansion",
+      "url": "https://lila.science/datasets/snapshot-safari-2024-expansion/",
+      "image_base": "snapshot-safari-2024-expansion",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshot-safari-2024-expansion/snapshot_safari_2024_metadata.zip",
+          "slug": "snapshot-safari-2024-expansion--metadata"
+        }
+      ],
+      "id": "snapshot-safari-2024-expansion"
+    },
+    {
+      "name": "Snapshot Serengeti",
+      "url": "https://lila.science/datasets/snapshot-serengeti",
+      "image_base": "snapshotserengeti-unzipped",
+      "labelsets": [
+        {
+          "name": "Season 1",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS01.json.zip",
+          "slug": "snapshot-serengeti--season-1"
+        },
+        {
+          "name": "Season 2",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS02.json.zip",
+          "slug": "snapshot-serengeti--season-2"
+        },
+        {
+          "name": "Season 3",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS03.json.zip",
+          "slug": "snapshot-serengeti--season-3"
+        },
+        {
+          "name": "Season 4",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS04.json.zip",
+          "slug": "snapshot-serengeti--season-4"
+        },
+        {
+          "name": "Season 5",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS05.json.zip",
+          "slug": "snapshot-serengeti--season-5"
+        },
+        {
+          "name": "Season 6",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS06.json.zip",
+          "slug": "snapshot-serengeti--season-6"
+        },
+        {
+          "name": "Season 7",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS07.json.zip",
+          "slug": "snapshot-serengeti--season-7"
+        },
+        {
+          "name": "Season 8",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS08.json.zip",
+          "slug": "snapshot-serengeti--season-8"
+        },
+        {
+          "name": "Season 9",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS09.json.zip",
+          "slug": "snapshot-serengeti--season-9"
+        },
+        {
+          "name": "Season 10",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS10.json.zip",
+          "slug": "snapshot-serengeti--season-10"
+        },
+        {
+          "name": "Season 11",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiS11.json.zip",
+          "slug": "snapshot-serengeti--season-11"
+        },
+        {
+          "name": "All metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengeti_S1-11_v2_1.json.zip",
+          "slug": "snapshot-serengeti--all-metadata"
+        },
+        {
+          "name": "Bounding boxes",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/snapshotserengeti-v-2-0/SnapshotSerengetiBboxes_20190903.json.zip",
+          "slug": "snapshot-serengeti--bounding-boxes"
+        }
+      ],
+      "id": "snapshot-serengeti"
+    },
+    {
+      "name": "SWG Camera Traps 2018-2020",
+      "url": "https://lila.science/datasets/swg-camera-traps",
+      "image_base": "swg-camera-traps",
+      "labelsets": [
+        {
+          "name": "Class-level annotations",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/swg-camera-traps/swg_camera_traps.zip",
+          "slug": "swg-camera-traps--class-level-annotations"
+        },
+        {
+          "name": "Bounding Boxes (with species)",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/swg-camera-traps/swg_camera_traps.bounding_boxes.with_species.zip",
+          "slug": "swg-camera-traps--bounding-boxes--with-species-"
+        },
+        {
+          "name": "Bounding Boxes (just animal/person/vehicle labels)",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/swg-camera-traps/swg_camera_traps.bounding_boxes.no_species.zip",
+          "slug": "swg-camera-traps--bounding-boxes--just-animal-person-vehicle-labels-"
+        }
+      ],
+      "id": "swg-camera-traps"
+    },
+    {
+      "name": "Trail Camera Images of New Zealand Animals",
+      "url": "https://lila.science/datasets/nz-trailcams",
+      "image_base": "nz-trailcams",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/nz-trailcams/trail_camera_images_of_new_zealand_animals_1.00.json.zip",
+          "slug": "nz-trailcams--metadata"
+        }
+      ],
+      "id": "nz-trailcams"
+    },
+    {
+      "name": "UNSW Predators",
+      "url": "https://lila.science/datasets/unsw-predators/",
+      "image_base": "unsw-predators/images",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/unsw-predators/unsw-predators.json.zip",
+          "slug": "unsw-predators--metadata"
+        }
+      ],
+      "id": "unsw-predators"
+    },
+    {
+      "name": "WCS Camera Traps",
+      "url": "https://lila.science/datasets/wcscameratraps",
+      "image_base": "wcs-unzipped",
+      "labelsets": [
+        {
+          "name": "Class-level annotations",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/wcs/wcs_camera_traps.json.zip",
+          "slug": "wcscameratraps--class-level-annotations"
+        },
+        {
+          "name": "Bounding Boxes (same classes as the class-level labels)",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/wcs/wcs_20220205_bboxes_with_classes.zip",
+          "slug": "wcscameratraps--bounding-boxes--same-classes-as-the-class-level-labels-"
+        },
+        {
+          "name": "Bounding Boxes (just animal/person/vehicle labels)",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/wcs/wcs_20220205_bboxes_no_classes.zip",
+          "slug": "wcscameratraps--bounding-boxes--just-animal-person-vehicle-labels-"
+        }
+      ],
+      "id": "wcscameratraps"
+    },
+    {
+      "name": "Wellington Camera Traps",
+      "url": "https://lila.science/datasets/wellingtoncameratraps",
+      "image_base": "wellington-unzipped/images",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/wellingtoncameratraps/wellington_camera_traps.json.zip",
+          "slug": "wellingtoncameratraps--metadata"
+        }
+      ],
+      "id": "wellingtoncameratraps"
+    },
+    {
+      "name": "WSU Lynx",
+      "url": "https://lila.science/datasets/wsu-lynx/",
+      "image_base": "wsu-lynx",
+      "labelsets": [
+        {
+          "name": "Metadata",
+          "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/wsu-lynx/wsu-lynx.26.02.13.1705.zip",
+          "slug": "wsu-lynx--metadata"
+        }
+      ],
+      "id": "wsu-lynx"
+    }
+  ],
+  "dataset_index": "https://lila.science/category/camera-traps/",
+  "pending_datasets": [
+    {
+      "name": "New Zealand Wildlife Thermal Imaging",
+      "url": "https://lila.science/datasets/new-zealand-wildlife-thermal-imaging/",
+      "reason": "Thermal videos use clip/track metadata, outside this still-image COCO filtering workflow.",
+      "id": "nz-thermal",
+      "source": "https://lilawildlife.blob.core.windows.net/lila-wildlife/nz-thermal/new-zealand-wildlife-thermal-imaging-metadata.json.zip",
+      "media_base": "nz-thermal/videos",
+      "media_type": "video"
+    }
+  ]
+}
